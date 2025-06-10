@@ -37,6 +37,10 @@ Each time you run the program, a random previous note will be shown to help you 
 There are no additional commands or options yet—just enter your daily insights and review past notes effortlessly.  
 As soon as new features are added, you’ll find them here. Stay tuned!
 
+try me new gui version as well with: python notetime.py --gui
+
+![NoteTime Screenshot](notetime.png)
+
 ## 🤝 Contributing
 
 Use the Quick Start guide above to try NoteTime yourself.
